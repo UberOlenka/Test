@@ -10,7 +10,37 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Cum">
         <activity
-            android:name=".MainActivity"
+            android:name=".ExerciseActivity10"
+            android:exported="true" />
+        <activity
+            android:name=".ExerciseActivity9"
+            android:exported="true" />
+        <activity
+            android:name=".ExerciseActivity8"
+            android:exported="true" />
+        <activity
+            android:name=".ExerciseActivity7"
+            android:exported="true" />
+        <activity
+            android:name=".ExerciseActivity6"
+            android:exported="true" />
+        <activity
+            android:name=".ExerciseActivity5"
+            android:exported="true" />
+        <activity
+            android:name=".ExerciseActivity4"
+            android:exported="true" />
+        <activity
+            android:name=".ExerciseActivity3"
+            android:exported="true" />
+        <activity
+            android:name=".ExerciseActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".ExerciseActivity1"
+            android:exported="true" />
+        <activity
+            android:name=".StartActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
